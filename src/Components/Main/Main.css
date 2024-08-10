@@ -205,7 +205,8 @@
         gap: 5px;
     }
     .search-box input{
-        width: auto;
+        width: 100px;
+        font-size: 15px;
     }
     .cards  .card p{
         font-size: 17px;
